@@ -1,7 +1,7 @@
 {	"ApplicationType":"dotnet",
 	"ApplicationName":".Net app",
  	"BuildTool":"MSBuild",
-	"BuildName":"App_Ver3.46",
+	"BuildName":"App_Ver3.47",
  	"BuildType":"dotnet"
  
 }
