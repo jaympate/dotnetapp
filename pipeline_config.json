@@ -3,5 +3,5 @@
  	"BuildTool":"MSBuild",
 	"BuildName":"App_Ver3.47",
  	"BuildType":"dotnet",
- 	"SolutionFile:"WebApplication.sln"
+ 	"SolutionFile:"WebApplication"
  }
