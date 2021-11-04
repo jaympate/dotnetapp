@@ -1,7 +1,7 @@
 {	"ApplicationType":"dotnet",
-	"ApplicationName":"WebApplication.sln",
+	"ApplicationName":".Net app",
  	"BuildTool":"MSBuild",
 	"BuildName":"App_Ver3.47",
- 	"BuildType":"dotnet"
- 
-}
+ 	"BuildType":"dotnet",
+ 	"SolutionFile:"WebApplication.sln"
+ }
