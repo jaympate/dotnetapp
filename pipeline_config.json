@@ -3,5 +3,6 @@
  	"BuildTool":"MSBuild",
 	"BuildName":"App_Ver3.58",
  	"FileName":"WebApplication",
+ 	"Branch":"Main",
  	"BuildType":"dotnet" 	
  }
