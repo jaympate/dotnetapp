@@ -4,5 +4,6 @@
 	"BuildName":"App_Ver3.72",
  	"FileName":"WebApplication",
  	"Branch":"main",
- 	"BuildType":"dotnet" 	
+ 	"BuildType":"dotnet"
+ 	"Yamlfile":"dotnetjob.yaml"
  }
