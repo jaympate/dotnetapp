@@ -5,5 +5,4 @@
  	"FileName":"WebApplication",
  	"Branch":"main",
  	"BuildType":"dotnet"
- 	"Yamlfile":"dotnetjob.yaml"
  }
